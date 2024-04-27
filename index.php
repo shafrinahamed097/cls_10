@@ -6,7 +6,14 @@
 
 // 1. Build in function
 
-$name="OSTAD";
+$name="OSTAD limited";
 $length=strlen($name);
-
 echo $length;
+
+// String, Array, Date Time, CURL, SESSION, File,
+
+// 2. User Defined function
+
+
+?>
+
