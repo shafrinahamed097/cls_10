@@ -4,12 +4,12 @@
     echo "I am Anonymous Function";
 }) ();
 
-// Other Anonymous Function
+// Other Anonymous Function Assign to Variable
 
-$HitRun=function(){
-    echo "I am Hit and Run Function";
+$HitRun=function($name){
+    echo "I am Hit and Run Function $name";
 };
 
-$HitRun();
+$HitRun("XYZ");
 
 ?>
